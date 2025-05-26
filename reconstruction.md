@@ -2,17 +2,23 @@
 
 ## SfM
 
-1. 25/05/08, DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion, [[page]](https://qitaozhao.github.io/DiffusionSfM). CVPR25.
-2. 25/04/28, Monocular Surface Priors for Robust Structure-from-Motion, [[GitHub]](https://github.com/cvg/mpsfm). CVPR25.
+- May 2025 — *DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion*  
+  [Project Page](https://qitaozhao.github.io/DiffusionSfM), CVPR 2025
+  
+- April 2025 — *Monocular Surface Priors for Robust Structure-from-Motion*  
+  [GitHub](https://github.com/cvg/mpsfm), CVPR 2025
 
 ## Video Diffusion
 
-1. 25/05/17, SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations, [[arxiv]](https://arxiv.org/pdf/2505.11992).
+- May 2025 — *SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations*  
+  [arXiv](https://arxiv.org/pdf/2505.11992)
 
 ## GS2Mesh
 
-1. 25/05/08, QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization, [[arxiv]](https://arxiv.org/pdf/2505.05591). Angela Dai'x lab.
+- May 2025 — *QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization*  
+  [arXiv](https://arxiv.org/pdf/2505.05591), Angela Dai's Lab
 
 ## Neural Field
 
-1. 25/04/22, Structured 3D Reconstruction in Planar Primitives with Neural Fields, [[page]](https://neuralplane.github.io/). ICLR25.
+- April 2025 — *Structured 3D Reconstruction in Planar Primitives with Neural Fields*  
+  [Project Page](https://neuralplane.github.io/), ICLR 2025
