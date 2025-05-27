@@ -73,8 +73,11 @@
 - May 18 | *World Models*  
   [page](https://worldmodels.github.io/). NIPS18
 
+- Mar 20 | *Dream to Control: Learning Behaviors by Latent Imagination*  
+  [GitHub](https://github.com/google-research/dreamer). ICLR20. Danijar
+  
 - Jun 22 | *DayDreamer: World Models for Physical Robot Learning*  
-  [GitHub](https://github.com/danijar/daydreamer). Berkeley
+  [GitHub](https://github.com/danijar/daydreamer). Berkeley. Danijar.
 
 - May 25 | *ENERVERSE-AC: Envisioning Embodied Environments with Action Condition*  
   [page](https://annaj2178.github.io/EnerverseAC.github.io/). Agibot
