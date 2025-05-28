@@ -46,6 +46,12 @@
 - May 25 | *Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions*  
   [page](https://web2grasp.github.io/)
 
+- May 25 | *EgoZero: Robot Learning from Smart Glasses*  
+  [page](https://egozero-robot.github.io/).
+
+- May 25 | *HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval*  
+  [page](https://liralab.usc.edu/handretrieval/).
+
 ## Diffusion Policy
 
 - Mar 25 | *ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy*  
@@ -67,6 +73,9 @@
 
 - Mar 25 | *What Matters in Learning from Large-Scale Datasets for Robot Manipulation*  
   [page](https://robo-mimiclabs.github.io/pages/study.html). ICLR25
+
+- Mar 24 | *Universal Manipulation Interface In-The-Wild Robot Teaching Without In-The-Wild Robots*  
+  [page](https://umi-gripper.github.io/). Chi. RSS24.
 
 ## World Model
 

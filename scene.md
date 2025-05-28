@@ -61,6 +61,9 @@
 - May 25 | *METASCENES: Towards Automated Replica Creation for Real-world 3D Scans*  
   [page](https://meta-scenes.github.io/). Siyuan Huang's lab
 
+- May 25 | *EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild*  
+  [arxiv](https://arxiv.org/pdf/2505.21282).
+
 ## Representation
 
 - Apr 25 | *RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots*  
