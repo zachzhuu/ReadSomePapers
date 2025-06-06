@@ -52,6 +52,9 @@
 - May 25 | *HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval*  
   [page](https://liralab.usc.edu/handretrieval/).
 
+- Jun 25 | *Object-centric 3D Motion Field for Robot Learning from Human Videos*  
+  [page](https://zhaohengyin.github.io/3DMF/). Pieter Abbeel's lab.
+
 ## Diffusion Policy
 
 - Mar 25 | *ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy*  
@@ -77,7 +80,10 @@
 - Mar 24 | *Universal Manipulation Interface In-The-Wild Robot Teaching Without In-The-Wild Robots*  
   [page](https://umi-gripper.github.io/). Chi. RSS24.
 
-## World Model
+- Jun 25 | *Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation*  
+  [page](https://lift3d-web.github.io/). CVPR25.
+
+## World Models
 
 - May 18 | *World Models*  
   [page](https://worldmodels.github.io/). NIPS18
@@ -117,6 +123,15 @@
 
 - May 25 | *Occupancy World Model for Robots*  
   [arxiv](https://arxiv.org/pdf/2505.05512)
+
+- Jun 25 | *WoMAP: World Models For Embodied Open-Vocabulary Object Localization*  
+  [page](https://robot-womap.github.io/).
+
+- Jun 25 | *DeepVerse: 4D Autoregressive Video Generation as a World Model*  
+  [page](https://sotamak1r.github.io/deepverse/).
+
+- Jun 25 | *FOLIAGE: Towards Physical Intelligence World Models Via Unbounded Surface Evolution*  
+  [arxiv](https://arxiv.org/pdf/2506.03173).
 
 ## Humanoid from Human
 
