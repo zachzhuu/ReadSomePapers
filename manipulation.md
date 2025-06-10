@@ -38,7 +38,7 @@
 ## Dexterous from Human/Ego
 
 - May 25 | *DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies*  
-  [page](https://dexwild.github.io/). Why using Robot Data only doesn't work. CMU RI. RSS25
+  [page](https://dexwild.github.io/). CMU RI. RSS25. Manus gloves.
 
 - May 25 | *EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video*  
   [arxiv](https://arxiv.org/pdf/2505.11709). Apple
@@ -89,19 +89,13 @@
   [page](https://worldmodels.github.io/). NIPS18
 
 - Mar 20 | *Dream to Control: Learning Behaviors by Latent Imagination*  
-  [GitHub](https://github.com/google-research/dreamer). ICLR20. Danijar
+  [GitHub](https://github.com/google-research/dreamer). ICLR20. Danijar.
   
 - Jun 22 | *DayDreamer: World Models for Physical Robot Learning*  
-  [GitHub](https://github.com/danijar/daydreamer). Berkeley. Danijar.
-
-- May 25 | *ENERVERSE-AC: Envisioning Embodied Environments with Action Condition*  
-  [page](https://annaj2178.github.io/EnerverseAC.github.io/). Agibot
+  [GitHub](https://github.com/danijar/daydreamer). Berkeley. Danijar. Robots learn online and directly in the real world, without any simulators.
 
 - Apr 25 | *Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets*  
-  [page](https://weirdlabuw.github.io/uwm/). RSS25
-
-- Mar 25 | *Learning View-invariant World Models for Visual Robotic Manipulation*  
-  [GitHub](https://github.com/lafmdp/ReViWo). ICLR25
+  [page](https://weirdlabuw.github.io/uwm/), [GitHub](https://github.com/WEIRDLabUW/unified-world-model). RSS25. A policy, a forward dynamics, an inverse dynamics, and a video generator.
 
 - May 25 | *LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation*  
   [arxiv](https://arxiv.org/pdf/2505.11528)
@@ -132,6 +126,9 @@
 
 - Jun 25 | *FOLIAGE: Towards Physical Intelligence World Models Via Unbounded Surface Evolution*  
   [arxiv](https://arxiv.org/pdf/2506.03173).
+
+- Jun 25 | *3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model*  
+  [GitHub](https://github.com/Hoyyyaard/3DFlowAction/).
 
 ## Humanoid from Human
 
