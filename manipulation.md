@@ -97,6 +97,9 @@
 - Apr 25 | *Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets*  
   [page](https://weirdlabuw.github.io/uwm/), [GitHub](https://github.com/WEIRDLabUW/unified-world-model). RSS25. A policy, a forward dynamics, an inverse dynamics, and a video generator.
 
+- Apr 25 | *Unified Video Action Model*  
+  [GitHub](https://github.com/ShuangLI59/unified_video_action). RSS25. Shuran Song's lab.
+
 - May 25 | *LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation*  
   [arxiv](https://arxiv.org/pdf/2505.11528)
 
