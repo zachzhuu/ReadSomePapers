@@ -37,6 +37,9 @@
 
 ## Dexterous from Human/Ego
 
+- N/A 96 | *Learning from Demonstration*  
+  [paper](https://proceedings.neurips.cc/paper_files/paper/1996/file/68d13cf26c4b4f4f932e3eff990093ba-Paper.pdf).
+
 - May 25 | *DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies*  
   [page](https://dexwild.github.io/). CMU RI. RSS25. Manus gloves.
 
@@ -44,7 +47,7 @@
   [arxiv](https://arxiv.org/pdf/2505.11709). Apple
 
 - May 25 | *Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions*  
-  [page](https://web2grasp.github.io/)
+  [page](https://web2grasp.github.io/).
 
 - May 25 | *EgoZero: Robot Learning from Smart Glasses*  
   [page](https://egozero-robot.github.io/).
