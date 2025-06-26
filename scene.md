@@ -48,7 +48,7 @@
 - May 25 | *NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance*  
   [page](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)
 
-- Jun 25 | * Multimodal Spatial Language Maps for Robot Navigation and Manipulation*  
+- Jun 25 | *Multimodal Spatial Language Maps for Robot Navigation and Manipulation*  
   [page](https://mslmaps.github.io/). IJRR. Wolfram Burgard.
 
 ## Simulation

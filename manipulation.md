@@ -17,6 +17,9 @@
 - May 25 | *OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning*  
   [page](https://one-two-vla.github.io/)
 
+- Jun 25 | *Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins*  
+  [GitHub](https://github.com/TritiumR/Prompting-with-the-Future). RSS25. Sampling-based control + GPT-4o-based high-level planning, evaluation and view changing.
+
 ## Augmentation
 
 - May 25 | *Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness*  
@@ -33,12 +36,12 @@
 ## Representation
 
 - May 25 | *EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation*  
-  [arxiv](https://arxiv.org/pdf/2505.10105). Submitted to NeurIPS25
+  [arxiv](https://arxiv.org/pdf/2505.10105).
+
+- Jun 25 | *GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation*  
+  [arxiv](https://arxiv.org/pdf/2506.14135). 3DGS with action field as a 4D representaion.
 
 ## Dexterous from Human/Ego
-
-- N/A 96 | *Learning from Demonstration*  
-  [paper](https://proceedings.neurips.cc/paper_files/paper/1996/file/68d13cf26c4b4f4f932e3eff990093ba-Paper.pdf).
 
 - May 25 | *DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies*  
   [page](https://dexwild.github.io/). CMU RI. RSS25. Manus gloves.
@@ -49,6 +52,11 @@
 - May 25 | *Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions*  
   [page](https://web2grasp.github.io/).
 
+## Learning from Videos
+
+- N/A 96 | *Learning from Demonstration*  
+  [paper](https://proceedings.neurips.cc/paper_files/paper/1996/file/68d13cf26c4b4f4f932e3eff990093ba-Paper.pdf).
+
 - May 25 | *EgoZero: Robot Learning from Smart Glasses*  
   [page](https://egozero-robot.github.io/).
 
@@ -58,10 +66,14 @@
 - Jun 25 | *Object-centric 3D Motion Field for Robot Learning from Human Videos*  
   [page](https://zhaohengyin.github.io/3DMF/). Pieter Abbeel's lab.
 
-## Diffusion Policy
+- Mar 25 | *ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos*  
+  [GitHub](https://github.com/junyaoshi/ZeroMimic?tab=readme-ov-file). ICRA25.
 
-- Mar 25 | *ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy*  
-  [page](https://et-seed.github.io/). Spatial generalization. ICLR25
+- Feb 23 | *Zero-Shot Robot Manipulation from Passive Human Videos*  
+  [page](https://sites.google.com/view/human-0shot-robot).
+
+- Jun 25 | *DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy*
+  [GitHub](https://github.com/demodiffusion/demodiffusion).
 
 ## Scaling Robot Learning
 
@@ -86,62 +98,12 @@
 - Jun 25 | *Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation*  
   [page](https://lift3d-web.github.io/). CVPR25.
 
-## World Models
-
-- May 18 | *World Models*  
-  [page](https://worldmodels.github.io/). NIPS18
-
-- Mar 20 | *Dream to Control: Learning Behaviors by Latent Imagination*  
-  [GitHub](https://github.com/google-research/dreamer). ICLR20. Danijar.
-  
-- Jun 22 | *DayDreamer: World Models for Physical Robot Learning*  
-  [GitHub](https://github.com/danijar/daydreamer). Berkeley. Danijar. Robots learn online and directly in the real world, without any simulators.
-
-- Apr 25 | *Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets*  
-  [page](https://weirdlabuw.github.io/uwm/), [GitHub](https://github.com/WEIRDLabUW/unified-world-model). RSS25. A policy, a forward dynamics, an inverse dynamics, and a video generator.
-
-- Apr 25 | *Unified Video Action Model*  
-  [GitHub](https://github.com/ShuangLI59/unified_video_action). RSS25. Shuran Song's lab.
-
-- May 25 | *LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation*  
-  [arxiv](https://arxiv.org/pdf/2505.11528)
-
-- May 25 | *EWMBENCH: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models*  
-  [GitHub](https://github.com/AgibotTech/EWMBench)
-
-- Apr 25 | *TesserAct: Learning 4D Embodied World Models*  
-  [page](https://tesseractworld.github.io/)
-
-- May 25 | *Learning 3D Persistent Embodied World Models*  
-  [arxiv](https://arxiv.org/pdf/2505.05495)
-
-- May 25 | *Vid2World: Crafting Video Diffusion Models to Interactive World Models*  
-  [page](https://knightnemo.github.io/vid2world/)
-
-- May 25 | *PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation*  
-  [page](https://pinwm.github.io/). RSS25
-
-- May 25 | *Occupancy World Model for Robots*  
-  [arxiv](https://arxiv.org/pdf/2505.05512)
-
-- Jun 25 | *WoMAP: World Models For Embodied Open-Vocabulary Object Localization*  
-  [page](https://robot-womap.github.io/).
-
-- Jun 25 | *DeepVerse: 4D Autoregressive Video Generation as a World Model*  
-  [page](https://sotamak1r.github.io/deepverse/).
-
-- Jun 25 | *FOLIAGE: Towards Physical Intelligence World Models Via Unbounded Surface Evolution*  
-  [arxiv](https://arxiv.org/pdf/2506.03173).
-
-- Jun 25 | *3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model*  
-  [GitHub](https://github.com/Hoyyyaard/3DFlowAction/).
-
 ## Humanoid from Human
 
 - May 25 | *Visual Imitation Enables Contextual Humanoid Control*  
   [page](https://www.videomimic.net/). Berkeley
 
-## Vision
+## Cross Embodiment
 
-- May 25 | *Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation*  
-  [page](https://aalmuzairee.github.io/mad/)
+- Jun 25 | *Latent Action Diffusion for Cross-Embodiment Manipulation*  
+  [page](https://mimicrobotics.github.io/lad/).
