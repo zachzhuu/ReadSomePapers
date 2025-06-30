@@ -12,10 +12,10 @@
   [arxiv](https://arxiv.org/pdf/2505.04769)
 
 - May 25 | *3D Scene Generation: A Survey*  
-  [GitHub](https://github.com/hzxie/Awesome-3D-Scene-Generation)
+  [code](https://github.com/hzxie/Awesome-3D-Scene-Generation)
 
 - Apr 25 | *Digital Twin Generation from Visual Data: A Survey*  
-  [GitHub](https://github.com/ndrwmlnk/awesome-digital-twins)
+  [code](https://github.com/ndrwmlnk/awesome-digital-twins)
 
 - May 25 | *Is Single-View Mesh Reconstruction Ready for Robotics?*  
   [arxiv](https://arxiv.org/pdf/2505.17966)

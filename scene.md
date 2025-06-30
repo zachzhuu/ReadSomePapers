@@ -31,7 +31,7 @@
   [page](https://naoki.io/portfolio/vlfm)
 
 - Mar 25 | *UniGoal: Towards Universal Zero-shot Goal-oriented Navigation*  
-  [GitHub](https://github.com/bagh2178/UniGoal?tab=readme-ov-file)
+  [code](https://github.com/bagh2178/UniGoal?tab=readme-ov-file)
 
 - Apr 24 | *GOAT-Bench: A Benchmark for Multi-modal Lifelong Navigation*  
   [page](https://mukulkhanna.github.io/goat-bench/)
@@ -108,4 +108,4 @@
 ## Continual Robot Learning
 
 - Apr 25 | *Action Flow Matching for Continual Robot Learning*  
-  [GitHub](https://github.com/AlejandroMllo/action_flow_matching). RSS25
+  [code](https://github.com/AlejandroMllo/action_flow_matching). RSS25
