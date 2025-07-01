@@ -39,9 +39,6 @@
 - Feb 25 | *NaVILA: Legged Robot Vision-Language-Action Model for Navigation*  
   [page](https://navila-bot.github.io/). RSS25
 
-- Apr 25 | *Navigation World Models*  
-  [page](https://www.amirbar.net/nwm/). LeCun. CVPR25
-
 - Apr 25 | *ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion*  
   [page](https://robotics-star.com/ApexNav/). HKUST(GZ)
 

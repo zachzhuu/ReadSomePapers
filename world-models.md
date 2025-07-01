@@ -68,6 +68,15 @@
 - Jun 25 | *FLARE: Robot Learning with Implicit World Modeling*  
   [page](https://research.nvidia.com/labs/gear/flare/). Nvidia GEAR.
 
+- Jun 25 | *RoboScape: Physics-informed Embodied World Model*  
+  [arxiv](https://arxiv.org/pdf/2506.23135).
+
+- Jun 25 | *World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation*  
+  [page](https://world4omni.github.io/#).
+
+- Jun 25 | *ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation*  
+  [page](https://particleformer.github.io/).
+
 ## World Modeling for Humanoid
 
 - May 25 | *Hierarchical World Models as Visual Whole-Body Humanoid Controllers*  
@@ -75,6 +84,14 @@
 
 - Jun 25 | *Whole-Body Conditioned Egocentric Video Prediction*  
   [page](https://dannytran123.github.io/PEVA/). LeCun.
+
+## World Modelling for Navigation
+
+- Apr 25 | *Navigation World Models*  
+  [page](https://www.amirbar.net/nwm/). LeCun. CVPR25
+
+- Jun 25 | *NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments*  
+  [code](https://github.com/Feliciaxyao/NavMorph).
 
 ## Reports or Lists
 
