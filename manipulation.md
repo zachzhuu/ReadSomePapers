@@ -95,6 +95,12 @@
 - Jun 25 | *Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation*  
   [page](https://lift3d-web.github.io/). CVPR25.
 
+- Jun 25 | *Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations*  
+  [code](https://github.com/shivanshpatel35/rigvid).
+
+- Jun 25 | *Geometry-aware 4D Video Generation for Robot Manipulation*  
+  [code](https://github.com/lzylucy/4dgen).
+
 ## Humanoid from Human
 
 - May 25 | *Visual Imitation Enables Contextual Humanoid Control*  

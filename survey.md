@@ -19,3 +19,6 @@
 
 - May 25 | *Is Single-View Mesh Reconstruction Ready for Robotics?*  
   [arxiv](https://arxiv.org/pdf/2505.17966)
+
+- Jun 25 | *A Survey: Learning Embodied Intelligence from Physical Simulators and World Models*  
+  [code](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey). Submitted to TPAMI.
