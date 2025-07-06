@@ -16,6 +16,9 @@
 - Apr 25 | *DRAWER: Digital Reconstruction and Articulation With Environment Realism*  
   [page](https://xiahongchi.github.io/DRAWER/)
 
+- Jul 25 | *ArtGS: 3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects*  
+  [page](https://sites.google.com/view/artgs/home)
+
 ## Navigation
 
 - Apr 25 | *Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation*  
