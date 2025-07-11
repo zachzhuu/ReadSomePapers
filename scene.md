@@ -100,6 +100,12 @@
 - May 25 | *Steerable Scene Generation with Post Training and Inference-Time Search*  
   [page](https://steerable-scene-generation.github.io/)
 
+- Jul 25 | *3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds*  
+  [page](https://ai.stanford.edu/~sunfanyun/3d-generalist/)
+
+- Dec 23 | *AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes*  
+  [page](https://ivl.cs.brown.edu/research/anyhome.html)
+
 ## Social Navigation
 
 - May 25 | *Demonstrating Arena 5.0: A Photorealistic ROS2 Simulation Framework for Developing and Benchmarking Social Navigation*  
