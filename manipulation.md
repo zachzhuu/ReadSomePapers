@@ -69,7 +69,7 @@
 - Feb 23 | *Zero-Shot Robot Manipulation from Passive Human Videos*  
   [page](https://sites.google.com/view/human-0shot-robot).
 
-- Jun 25 | *DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy*
+- Jun 25 | *DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy*  
   [code](https://github.com/demodiffusion/demodiffusion).
 
 ## Scaling Robot Learning
@@ -115,3 +115,8 @@
 
 - Jun 25 | *SafeMimic: Towards Safe and Autonomous Human-to-Robot Imitation for Mobile Manipulation*  
   [page](https://robin-lab.cs.utexas.edu/SafeMimic/). RSS25.
+
+## Real Sim Gap
+
+- *Evaluating Real-World Robot Manipulation Policies in Simulation*  
+  [code](https://github.com/simpler-env/SimplerEnv). CoRL24.

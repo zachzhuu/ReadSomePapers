@@ -67,6 +67,9 @@
 - May 25 | *EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild*  
   [arxiv](https://arxiv.org/pdf/2505.21282).
 
+- Dec 23 | *LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset*  
+  [code](https://github.com/GAP-LAB-CUHK-SZ/LASA). CVPR24.
+
 ## Representation
 
 - Apr 25 | *RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots*  
@@ -115,3 +118,8 @@
 
 - Apr 25 | *Action Flow Matching for Continual Robot Learning*  
   [code](https://github.com/AlejandroMllo/action_flow_matching). RSS25
+
+## Reconstruction
+
+- Jul 25 | *InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes*  
+  [page](https://zju3dv.github.io/instascene/). ICCV25.
